@@ -1,6 +1,6 @@
 # Project homepage
 
-![Design preview for the News homepage coding challenge](./design/desktop-design.jpg)
+![Design preview for the News homepage coding challenge](./Design/desktop-design.png)
 
 ## Welcome! 👋
 
